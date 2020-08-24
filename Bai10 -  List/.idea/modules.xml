@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Bai10 -  List.iml" filepath="$PROJECT_DIR$/.idea/Bai10 -  List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyLinked/MyLinked.iml" filepath="$PROJECT_DIR$/MyLinked/MyLinked.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Simple List/Simple List.iml" filepath="$PROJECT_DIR$/Simple List/Simple List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai 3 - array list/bai 3 - array list.iml" filepath="$PROJECT_DIR$/bai 3 - array list/bai 3 - array list.iml" />
+    </modules>
+  </component>
+</project>
